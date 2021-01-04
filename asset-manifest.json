@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/zim/static/css/main.e0c0fce2.chunk.css",
+    "main.js": "/zim/static/js/main.c558cad4.chunk.js",
+    "main.js.map": "/zim/static/js/main.c558cad4.chunk.js.map",
+    "runtime-main.js": "/zim/static/js/runtime-main.0d91fab1.js",
+    "runtime-main.js.map": "/zim/static/js/runtime-main.0d91fab1.js.map",
+    "static/js/2.024c411c.chunk.js": "/zim/static/js/2.024c411c.chunk.js",
+    "static/js/2.024c411c.chunk.js.map": "/zim/static/js/2.024c411c.chunk.js.map",
+    "static/js/3.c2e2d210.chunk.js": "/zim/static/js/3.c2e2d210.chunk.js",
+    "static/js/3.c2e2d210.chunk.js.map": "/zim/static/js/3.c2e2d210.chunk.js.map",
+    "index.html": "/zim/index.html",
+    "static/css/main.e0c0fce2.chunk.css.map": "/zim/static/css/main.e0c0fce2.chunk.css.map",
+    "static/js/2.024c411c.chunk.js.LICENSE.txt": "/zim/static/js/2.024c411c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d91fab1.js",
+    "static/js/2.024c411c.chunk.js",
+    "static/css/main.e0c0fce2.chunk.css",
+    "static/js/main.c558cad4.chunk.js"
+  ]
+}
